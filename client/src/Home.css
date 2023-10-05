@@ -1,0 +1,17 @@
+/* Home Container Styles */
+.home-container {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Home Heading Styles */
+.home-heading {
+  margin-top: 20px;
+}
+
+/* Home List Styles */
+.home-list {
+  text-align: left;
+}

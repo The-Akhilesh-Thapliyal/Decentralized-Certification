@@ -1,0 +1,35 @@
+/* Styling for the hash display container. */
+.hash-display {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* Styling for the label within the hash display. */
+.label {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Styling for the hash value container, including alignment and margin. */
+.hash-value-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+/* Styling for the hash value itself, including padding, border, and flex properties. */
+.hash-value {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+/* Styling for the copy button within the hash display. */
+.copy-button {
+  padding: 8px;
+}

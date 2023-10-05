@@ -1,0 +1,17 @@
+/* Styles for the main container that holds contact information */
+.contact-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Styles for each individual contact item */
+  .contact-item {
+    margin-top: 10px;
+  }
+  
+  /* Styles for labels within contact items */
+  label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
