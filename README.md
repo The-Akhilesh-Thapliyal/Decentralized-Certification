@@ -36,8 +36,24 @@ Before running the project, make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/The-Akhilesh-Thapliyal/certificatechain-dapp.git
-   cd certificatechain-dapp
+   git clone https://github.com/The-Akhilesh-Thapliyal/Decentralized-Certification.git
+   cd Decentralized-Certification
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+
+3. **Migrate smart contract:**
+   ```bash
+   cd truffle
+   truffle compile
+   truffle migrate
+
+4. **Start the React development server:**
+   ```bash
+   cd client
+   npm start
+   
 ## Components
 
 - **Home**
@@ -48,6 +64,7 @@ The Home page provides an introduction to the CertificateChain dApp. It outlines
 
 
 - **Download Certificate**
+
 ![Download Certificate](http://drive.google.com/uc?export=view&id=1Ax02N39IwUzKdpsa-4PEgA3vv-R_g_bY)
     
 The Download Certificate page is where users can interact with the dApp to securely download certificates. Users are prompted to enter their registered email, and the application verifies the blockchain for the corresponding certificate. If found, the user can download the certificate with added PDF watermarking.- **
@@ -55,7 +72,7 @@ The Download Certificate page is where users can interact with the dApp to secur
 
 - **Contact Us**
 
-![Contact Us](http://drive.google.com/uc?export=view&id=1PQae4Lw7G94lIeoX9bMrl3wYyV3PhFuH)
+![Home](http://drive.google.com/uc?export=view&id=1MWKw4k34Thi2jgSXjg4XJWxiN8FAKMtD)
     
 The Contact Us page allows users to get in touch with the developers or project maintainers. Users can use the provided form to send inquiries, feedback, or other messages related to the CertificateChain dApp.
 ## 🚀 About Me
