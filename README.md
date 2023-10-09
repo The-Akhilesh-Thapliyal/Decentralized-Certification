@@ -1,14 +1,32 @@
 
-# Decentralized Certification
+<h1 align="center">Decentralized Certification</h1>
 
-
-![Decentralized Certification Demo](http://drive.google.com/uc?export=view&id=1M8rRConFH1vvYNyVUtIuHZI7_UxgFDK-)
-
+<p align="center">
+<img src="http://drive.google.com/uc?export=view&id=1UhzpQUs8-5PbhJuo91U6CFHPQ4nrQSYk">
+</p>
 
 
 Decentralized Certification is a decentralized application (dApp) designed for secure and efficient certificate management. Leveraging Ethereum smart contracts and React for the frontend, this application empowers users to securely download certificates while incorporating PDF watermarking for enhanced security.
 
+## Components
 
+- **Home**
+    
+![Home](http://drive.google.com/uc?export=view&id=1iKj85jk2QtMjY0i1o2qtLDldavh6cr_j)
+
+The Home page provides an introduction to the CertificateChain dApp. It outlines the project's purpose, features, and benefits. Users can learn about the application's capabilities and its role in secure certificate management.
+
+
+- **Download Certificate**
+![Download Certificate](http://drive.google.com/uc?export=view&id=1Ax02N39IwUzKdpsa-4PEgA3vv-R_g_bY)
+    
+The Download Certificate page is where users can interact with the dApp to securely download certificates. Users are prompted to enter their registered email, and the application verifies the blockchain for the corresponding certificate. If found, the user can download the certificate with added PDF watermarking.- **
+
+
+- **Contact Us**
+
+![Contact Us](http://drive.google.com/uc?export=view&id=1MWKw4k34Thi2jgSXjg4XJWxiN8FAKMtD)
+    
 
 ## Features
 
@@ -54,27 +72,7 @@ Before running the project, make sure you have the following installed:
    cd client
    npm start
    
-## Components
 
-- **Home**
-    
-![Home](http://drive.google.com/uc?export=view&id=1iKj85jk2QtMjY0i1o2qtLDldavh6cr_j)
-
-The Home page provides an introduction to the CertificateChain dApp. It outlines the project's purpose, features, and benefits. Users can learn about the application's capabilities and its role in secure certificate management.
-
-
-- **Download Certificate**
-
-![Download Certificate](http://drive.google.com/uc?export=view&id=1Ax02N39IwUzKdpsa-4PEgA3vv-R_g_bY)
-    
-The Download Certificate page is where users can interact with the dApp to securely download certificates. Users are prompted to enter their registered email, and the application verifies the blockchain for the corresponding certificate. If found, the user can download the certificate with added PDF watermarking.- **
-
-
-- **Contact Us**
-
-![Home](http://drive.google.com/uc?export=view&id=1MWKw4k34Thi2jgSXjg4XJWxiN8FAKMtD)
-    
-The Contact Us page allows users to get in touch with the developers or project maintainers. Users can use the provided form to send inquiries, feedback, or other messages related to the CertificateChain dApp.
 ## 🚀 About Me
 Hello, I'm Akhilesh Thapliyal! 👋
 
