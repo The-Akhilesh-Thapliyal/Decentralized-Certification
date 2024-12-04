@@ -78,6 +78,6 @@ Hello, I'm Akhilesh Thapliyal! 👋
 
 ## Contact
 
-- **Email:** akhileshthapliyal20@gmail.com
+- **Email:** akhilesh.thedev@gmail.com
 - **LinkedIn:** www.linkedin.com/in/akhilesh-thapliyal
 - **GitHub:** https://github.com/The-Akhilesh-Thapliyal
